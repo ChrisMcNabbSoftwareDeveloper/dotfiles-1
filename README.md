@@ -1,5 +1,5 @@
-thoughtbot dotfiles
-===================
+My Dotfiles - forked from Thoughtbot Dotfiles
+==============================================
 
 Install
 -------
